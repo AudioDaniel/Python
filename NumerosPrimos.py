@@ -8,4 +8,4 @@ def calc_numeros_primos(numero):
     return True
 
 
-calc_numeros_primos(15)
+calc_numeros_primos(13)
